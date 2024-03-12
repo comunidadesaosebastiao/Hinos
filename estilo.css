@@ -1,4 +1,6 @@
-
+.td1{
+    vertical-align: top;
+}
 .detalhes{
     background-color:white;
     color: black;
@@ -10,8 +12,13 @@
     border-top-left-radius:20px;
     border-top-right-radius:20px;
 }
-a{
+.a1{
     color: black;
+    font-size: x-large;
+}
+a{
+    color:blueviolet;
+    font-size: large;
     text-decoration:transparent;
     transition: cubic-bezier(0.075, 0.82, 0.165, 1);
 }
